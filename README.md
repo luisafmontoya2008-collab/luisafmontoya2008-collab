@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**luisafmontoya2008-collab/luisafmontoya2008-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Decripcion 
+Soy una estudiante de Compuoriente,tengo 20 años , me dedico a aprender sobre sistemas, he trabajo en un almacen y en restaurantes, me gusta dormir mucho,me gustan los animales,especialmente las vacas.
+# Habilidades
+* Hacer manualidades
+* Comer
+* Dormir
+* Hacer flores eternas
+* Dañar cargadores
+* Leer libros
+# Estudios
+Tengo estudios en
+* Veterinaria
+* Bachiller
+* Diseño grafico
+* Cosmetología
+* Arquitectura
+#Contacto
+*31688188116
+# Experiencia
+*Hacer manillas de hilo 
+* Trabajar en restaurantes
+* TRabajar en almacen
